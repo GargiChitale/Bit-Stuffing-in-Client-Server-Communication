@@ -80,3 +80,6 @@ Bit stuffing is a technique used in data communication to ensure reliable data t
 4. **Interaction**:
    - Follow the on-screen instructions to send messages from the client to the server. The messages will undergo bit stuffing before being sent.
 
+## Team Members
+
+- [Devanshu Katiyar](https://github.com/DevanshuKatiyar)
